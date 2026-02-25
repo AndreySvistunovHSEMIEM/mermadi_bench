@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Node (mermaid for render check)
+node_modules/
+package-lock.json
+
+# Results (large CSVs, regeneratable)
+results/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

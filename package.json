@@ -1,0 +1,24 @@
+{
+  "name": "mermaidseqbench-eval",
+  "version": "1.0.0",
+  "description": "Evaluate your LLM on the [MermaidSeqBench](https://huggingface.co/datasets/ibm-research/MermaidSeqBench) dataset using LLMaJ and a RESTful OpenAI-compatible API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM/MermaidSeqBench-Eval.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IBM/MermaidSeqBench-Eval/issues"
+  },
+  "homepage": "https://github.com/IBM/MermaidSeqBench-Eval#readme",
+  "dependencies": {
+    "mermaid": "^11.12.3"
+  }
+}
