@@ -16,8 +16,8 @@ venv/
 node_modules/
 package-lock.json
 
-# Results (large CSVs, regeneratable)
-results/
+# Results — keep in repo for reproducibility
+# results/
 
 # Logs
 *.log
